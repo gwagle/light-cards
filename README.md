@@ -28,13 +28,13 @@ And you can run it via:
     polyserve
 
 Once running, you can preview your element at
-`http://localhost:8080/components/light-card/`, where `light-card` is the name of the directory containing it.
+`http://localhost:8080/components/light-cards/`, where `light-cards` is the name of the directory containing it.
 
 
 ## Testing Your Element
 
 Simply navigate to the `/test` directory of your element to run its tests. If
-you are using Polyserve: `http://localhost:8080/components/light-card/test/`
+you are using Polyserve: `http://localhost:8080/components/light-cards/test/`
 
 ### web-component-tester
 
